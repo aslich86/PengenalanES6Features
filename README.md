@@ -111,5 +111,3 @@ function greet(name = "Guest") {
 greet(); // Output: "Hello, Guest!"
 greet("John"); // Output: "Hello, John!"
 ```
-
-Itulah beberapa fitur utama ES6 yang dapat membantu meningkatkan kualitas kode dan produktivitas dalam pengembangan aplikasi JavaScript. Dengan memahami dan menguasai fitur-fitur ini, Anda akan menjadi lebih efisien dalam menulis kode JavaScript yang lebih modern dan terstruktur. Selamat belajar dan semoga sukses!
